@@ -29,5 +29,4 @@ Elements' range is chosen between 1 and 100 due to screen size.
 
 
 * Flickery display makes things a bit annoying but main working principal can be seen.
-* These sorting speeds does not show the real speeds of the algorithms. These are only for visualization.
-* 
+* These sorting speeds does not show the real speeds of the algorithms. These are only for visualization. 
