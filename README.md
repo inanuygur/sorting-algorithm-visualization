@@ -1,4 +1,4 @@
-# sorting-algorithm-visualization
+# Sorting Algorithm Visualization
 
 This project is an implementation of visualization of sorting algorithms using terminal as an output display. 
 The array size and sorting speed is determined by the user and an array is created using given array size which's elements are between 1 - 100.
